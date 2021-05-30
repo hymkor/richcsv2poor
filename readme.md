@@ -3,8 +3,8 @@ Rich-CSV to Pool-CSV converter
 
 This program replaces delimiters:
 
-- Replacing `,` enclosed with double-quotations to `\v` (Vertical Tab)
-- Replacing `\n` (Line Feed) enclosed with double-quotations to `\f` (Form Feed)
+- Replacing `,` not enclosed with double-quotations to `\v` (Vertical Tab)
+- Replacing `\n` (Line Feed) not enclosed with double-quotations to `\f` (Form Feed)
 - Removing double-quotations
 
 Example
