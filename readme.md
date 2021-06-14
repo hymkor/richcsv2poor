@@ -1,5 +1,5 @@
-Rich-CSV to Pool-CSV converter
-==============================
+Rich-CSV to awk-readable-CSV converter
+======================================
 
 This program replaces delimiters:
 
